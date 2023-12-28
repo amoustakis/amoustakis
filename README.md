@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **apostolisss01@gmail.com**
 
-- ⚡ Fun fact **I like tennis**
+- ⚡ Fun fact **I like tennis 🎾**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
