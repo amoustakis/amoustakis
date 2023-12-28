@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif">
+</p>
 <h1 align="center">Hi 👋, I'm Apostolos Moustakis</h1>
 <h3 align="center">A passionate Data Scientist & Machine Learning Enthusiast from Greece</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif">
